@@ -1,0 +1,13 @@
+.maintitle {
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 82px;
+}
+
+.recipe {
+    font-size: 34px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
