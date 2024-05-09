@@ -1,6 +1,6 @@
 .maintitle {
-    background-color: aqua;
-    color: rgb(0, 0, 0);
+    background-color: gray;
+    color: aqua;
     text-align: center;
     font-size: 82px;
 }
@@ -17,4 +17,12 @@ h1 {
     text-align: center;
     background-color: gray;
     color: aqua;
+    font-size: 52px;
+}
+
+h3,
+h4 {
+    background-color: gray;
+    font-weight: bold;
+    font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
 }
