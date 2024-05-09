@@ -26,3 +26,7 @@ h4 {
     font-weight: bold;
     font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.picture {
+    align-content: center;
+}
