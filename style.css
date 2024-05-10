@@ -21,12 +21,9 @@ h1 {
 }
 
 h3,
-h4 {
+h4 { 
     background-color: gray;
     font-weight: bold;
     font-family: cursive, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.picture {
-    align-content: center;
-}
